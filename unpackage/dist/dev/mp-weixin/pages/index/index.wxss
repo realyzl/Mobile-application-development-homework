@@ -1,0 +1,23 @@
+
+.container.data-v-57280228 {
+	padding: 20px;/* 
+	font-size: 14px;
+	line-height: 24px; */
+}
+.data-v-57280228 .uni-card{
+	border-radius: 10px;
+}
+.data-v-57280228 .uni-card .uni-card__header{
+	border: 0;
+}
+.data-v-57280228 .uni-card{
+	background-color: #FFFFCC;
+}
+.data-v-57280228 .uni-card .uni-card__header .uni-card__header-content .uni-card__header-content-title{
+	font-size: 25px;
+	font-weight: bold;
+}
+.data-v-57280228 .uni-fab__circle .uni-fab__plus .uni-fab__circle--rightBottom .uni-fab__content--other-platform{
+	background-color: #99CCFF;
+}
+
